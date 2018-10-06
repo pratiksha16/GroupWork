@@ -65,16 +65,16 @@ _______________________________________
     - Scope: 
   
  3. ShareRide
-     - Description: Allows the user to share ride with another person going to the same destination. Just like carpooling. 
+     - Description: Allows the user to share ride or ask for a ride with another person going to the same destination. Just like carpooling. 
 
     - Category: Social Networking
 
-    - Mobile:
+    - Mobile: Mobile is necessary for instant logging to find the rides or ask for the rides. 
 
     
     - Market: Everyone
 
-    - Habit: 
+    - Habit: People can use this app whenever they need ride or want to share ride to go anywhere. 
 
     - Scope: 
 
