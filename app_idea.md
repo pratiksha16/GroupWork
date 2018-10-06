@@ -37,6 +37,12 @@ _________________________________________
 ## Top 3 Apps:
 _______________________________________
  1. Rudio
- 2. 
+    - Descriptions:
+    
+ 2. VideoUnited
+    - Descriptions:
+  
+ 3. ShareRide
+    - Descriptions:
 
 
