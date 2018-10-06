@@ -65,7 +65,7 @@ _______________________________________
     - Scope: 
   
  3. ShareRide
-     - Description: 
+     - Description: Allows the user to share ride with another person going to the same destination. Just like carpooling. 
 
     - Category: Social Networking
 
