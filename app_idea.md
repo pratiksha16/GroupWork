@@ -40,7 +40,18 @@ _______________________________________
     - Descriptions:
     
  2. VideoUnited
-    - Descriptions:
+    - Description: 
+
+    - Category: Social Networking
+
+    - Mobile:
+
+    
+    - Market: Everyone
+
+    - Habit: 
+
+    - Scope: 
   
  3. ShareRide
     - Descriptions:
