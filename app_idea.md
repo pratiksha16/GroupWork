@@ -37,7 +37,18 @@ _________________________________________
 ## Top 3 Apps:
 _______________________________________
  1. Rudio
-    - Descriptions:
+     - Description: 
+
+    - Category: Social Networking
+
+    - Mobile:
+
+    
+    - Market: Everyone
+
+    - Habit: 
+
+    - Scope: 
     
  2. VideoUnited
     - Description: 
@@ -54,6 +65,17 @@ _______________________________________
     - Scope: 
   
  3. ShareRide
-    - Descriptions:
+     - Description: 
+
+    - Category: Social Networking
+
+    - Mobile:
+
+    
+    - Market: Everyone
+
+    - Habit: 
+
+    - Scope: 
 
 
